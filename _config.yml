@@ -1,7 +1,7 @@
 name: nissifurniture
 favicon: null
-layout_spectrum: 0.9900797801092267
-typography_spectrum: 0.10149484756402671
+layout_spectrum: 0.3016008830163628
+typography_spectrum: 0.9186775737907737
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,15 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.06868197699077427
-  lightness: 0.32489847717806697
-  saturation: 0.7880607324186713
-  rhythmicContrast: 0.7285984437912703
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+  brandStrength: 0.7148735972587019
+  lightness: 0.16066292789764702
+  saturation: 0.8926993454806507
+  rhythmicContrast: 0.1535971537232399
 purpose: []
+coverPrefs:
+  filter: false
